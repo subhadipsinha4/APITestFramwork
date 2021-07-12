@@ -1,0 +1,5 @@
+Utils\TestDataBuild.class
+Utils\UtilTest.class
+POJO\Location.class
+POJO\AddPlace.class
+Utils\ResourceAPI.class
